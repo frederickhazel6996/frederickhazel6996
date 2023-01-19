@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Frederick and I am a backend developer
-- 👀 I’m interested in Pythond and Node JS
+- 👀 I’m interested in Python and Node JS
 - 💞️ I’m looking to collaborate on python and node js projects
 - 📫 Reach me on my email `frederick.d9696@gmail.com`
 
